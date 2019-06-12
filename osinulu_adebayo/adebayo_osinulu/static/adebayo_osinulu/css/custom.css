@@ -1,0 +1,11 @@
+/* your styles go here */
+#intro{
+    background: url("/static/adebayo_osinulu/img/home.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.reach-out{
+    font-family: Helvetica, Arial, Sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}

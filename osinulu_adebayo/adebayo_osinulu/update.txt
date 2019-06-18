@@ -1,0 +1,16 @@
+I need to update all static files to point to the static files folder i created so django can see it
+
+done with above
+
+now I am adding all the class and necessary attributes to my form fields in forms.py, and the have them display as the one from the template.
+as shown on page 233(239 of 1864)
+
+done with above...
+now i have to read up how to send mail from my views.
+
+Now i have to add the forms manually fro the model and iplement their widgets
+
+done with above...
+left to create a super user account to see the messages.
+
+I think we are good to push to productipon... update the email link sha
